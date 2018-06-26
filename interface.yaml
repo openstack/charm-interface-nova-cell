@@ -1,0 +1,4 @@
+name: nova-cell
+summary: Compute Controller <-> API Controller interface
+version: 1
+maintainer: "<openstack-charmers@lists.ubuntu.com>"
