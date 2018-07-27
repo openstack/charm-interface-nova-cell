@@ -2,3 +2,12 @@ name: nova-cell
 summary: Compute Controller <-> API Controller interface
 version: 1
 maintainer: "<openstack-charmers@lists.ubuntu.com>"
+ignore:
+  - 'unit_tests'
+  - 'Makefile'
+  - '.testr.conf'
+  - 'test-requirements.txt'
+  - 'tox.ini'
+  - '.gitignore'
+  - '.gitreview'
+  - '.unit-state.db'
